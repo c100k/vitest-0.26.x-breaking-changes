@@ -1,0 +1,15 @@
+{
+    "name": "vitest-0.26.x-breaking-changes",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "test": "vitest run"
+    },
+    "dependencies": {
+        "jsonwebtoken": "9.0.0"
+    },
+    "devDependencies": {
+        "@types/jsonwebtoken": "9.0.0",
+        "vitest": "0.26.3"
+    }
+}
